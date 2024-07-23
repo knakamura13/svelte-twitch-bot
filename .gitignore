@@ -1,0 +1,19 @@
+*.map
+.DS_Store
+.env
+.env.*
+.vercel
+/.idea
+/.svelte-kit
+/.vscode
+/build
+/package
+/yarn-error.log
+node_modules
+vite.config.*.timestamp-*
+
+# Generated CSS files
+styles.css
+
+# Generated JS files
+/src/**/*.js
